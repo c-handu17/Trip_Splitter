@@ -1,0 +1,6 @@
+{
+  "name": "Trip Split",
+  "description": "Track shared expenses across friend trips with custom splits, person-by-person ledgers, and minimal settlement payments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
